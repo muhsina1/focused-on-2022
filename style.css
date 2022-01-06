@@ -67,10 +67,15 @@ h1{
     background-color: rgb(198, 222, 245);
 }
 .margin-padding{
-    padding-left: 200px;
-    
+    padding-left: 200px;  
 }
-
+footer{
+    text-align: center;
+}
+.color-footer{
+    background-color: black;
+    color: white;
+}
     
     
 
