@@ -1,0 +1,63 @@
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+.heading-style{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, pink);
+    line-height: 30px;
+    border-image-slice: 1;
+    }
+h1{
+    font-size: 40px;
+}
+#text-center{
+    text-align: center;
+    color: midnightblue;
+}
+.yellow-color{
+    color: darkorange;
+}
+.click-button{
+    text-decoration: none;
+    background-image:linear-gradient(blue, rgb(71, 203, 255));
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 4px;
+}
+.flexible-display{
+    display: flex;
+}
+        
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+     
+}
+.mission-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 20px 20px 30px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.image-size{
+    height: 100px;
+    width: 100px;
+}
+#mission-color{
+    background-color: rgb(215, 247, 215);
+}
+#vission-color{
+    background-color: rgb(245, 239, 187);
+}
+#goals-color{
+    background-color: rgb(198, 222, 245);
+}
+
